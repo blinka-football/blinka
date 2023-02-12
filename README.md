@@ -1,1 +1,1 @@
-# blinka
+# blinka-app
